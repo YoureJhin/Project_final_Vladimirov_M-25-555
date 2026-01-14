@@ -3,7 +3,7 @@ name = "final-project"
 version = "0.1.0"
 description = ""
 authors = [
-    {name = "Glebov B.P. M25-555"}
+    {name = "Vladimirov D.S. M25-555"}
 ]
 readme = "README.md"
 requires-python = ">=3.13"
