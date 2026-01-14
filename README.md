@@ -3,7 +3,7 @@
 ## Структура проекта
 
 ```
-finalproject_Glebov_M25-555/
+finalproject_Vladimirom_M25-555/
 │  
 ├── data/                         # Каталог с данными и кэшем
 │    ├── users.json               # Данные пользователей
@@ -83,6 +83,6 @@ python main.py --help
 
 ## Контакты
 
-Автор: Glebov B.P.
+Автор: Vladimirov D.S.
 
 Группа:  M25-555
